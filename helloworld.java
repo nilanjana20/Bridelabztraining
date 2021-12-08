@@ -1,4 +1,3 @@
-#!/bin/bash
 
 public class Helloworld {
 
