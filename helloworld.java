@@ -1,6 +1,7 @@
 
 public class Helloworld {
 
-	public static void main()
-	System.out.println("Nilanjana")	
+	public static void main(){
+	System.out.println("Nilanjana");	
+}
 }
